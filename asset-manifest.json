@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/maktabkhoonehh-resume/static/css/main.6959e45a.chunk.css",
-    "main.js": "/maktabkhoonehh-resume/static/js/main.687a6424.chunk.js",
-    "main.js.map": "/maktabkhoonehh-resume/static/js/main.687a6424.chunk.js.map",
-    "runtime-main.js": "/maktabkhoonehh-resume/static/js/runtime-main.d806ff2b.js",
-    "runtime-main.js.map": "/maktabkhoonehh-resume/static/js/runtime-main.d806ff2b.js.map",
-    "static/css/2.89f067aa.chunk.css": "/maktabkhoonehh-resume/static/css/2.89f067aa.chunk.css",
-    "static/js/2.7a6863cb.chunk.js": "/maktabkhoonehh-resume/static/js/2.7a6863cb.chunk.js",
-    "static/js/2.7a6863cb.chunk.js.map": "/maktabkhoonehh-resume/static/js/2.7a6863cb.chunk.js.map",
-    "index.html": "/maktabkhoonehh-resume/index.html",
-    "precache-manifest.c9a46947e52e3b04ee723abfae8fab1a.js": "/maktabkhoonehh-resume/precache-manifest.c9a46947e52e3b04ee723abfae8fab1a.js",
-    "service-worker.js": "/maktabkhoonehh-resume/service-worker.js",
-    "static/css/2.89f067aa.chunk.css.map": "/maktabkhoonehh-resume/static/css/2.89f067aa.chunk.css.map",
-    "static/css/main.6959e45a.chunk.css.map": "/maktabkhoonehh-resume/static/css/main.6959e45a.chunk.css.map",
-    "static/js/2.7a6863cb.chunk.js.LICENSE.txt": "/maktabkhoonehh-resume/static/js/2.7a6863cb.chunk.js.LICENSE.txt"
+    "main.css": "/maktabkhooneh-resume/static/css/main.6959e45a.chunk.css",
+    "main.js": "/maktabkhooneh-resume/static/js/main.b3c1e372.chunk.js",
+    "main.js.map": "/maktabkhooneh-resume/static/js/main.b3c1e372.chunk.js.map",
+    "runtime-main.js": "/maktabkhooneh-resume/static/js/runtime-main.289f3635.js",
+    "runtime-main.js.map": "/maktabkhooneh-resume/static/js/runtime-main.289f3635.js.map",
+    "static/css/2.89f067aa.chunk.css": "/maktabkhooneh-resume/static/css/2.89f067aa.chunk.css",
+    "static/js/2.7a6863cb.chunk.js": "/maktabkhooneh-resume/static/js/2.7a6863cb.chunk.js",
+    "static/js/2.7a6863cb.chunk.js.map": "/maktabkhooneh-resume/static/js/2.7a6863cb.chunk.js.map",
+    "index.html": "/maktabkhooneh-resume/index.html",
+    "precache-manifest.daf5a05c48ca137f2992ce4f0825feda.js": "/maktabkhooneh-resume/precache-manifest.daf5a05c48ca137f2992ce4f0825feda.js",
+    "service-worker.js": "/maktabkhooneh-resume/service-worker.js",
+    "static/css/2.89f067aa.chunk.css.map": "/maktabkhooneh-resume/static/css/2.89f067aa.chunk.css.map",
+    "static/css/main.6959e45a.chunk.css.map": "/maktabkhooneh-resume/static/css/main.6959e45a.chunk.css.map",
+    "static/js/2.7a6863cb.chunk.js.LICENSE.txt": "/maktabkhooneh-resume/static/js/2.7a6863cb.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.d806ff2b.js",
+    "static/js/runtime-main.289f3635.js",
     "static/css/2.89f067aa.chunk.css",
     "static/js/2.7a6863cb.chunk.js",
     "static/css/main.6959e45a.chunk.css",
-    "static/js/main.687a6424.chunk.js"
+    "static/js/main.b3c1e372.chunk.js"
   ]
 }
