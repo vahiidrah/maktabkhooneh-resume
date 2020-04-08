@@ -21,35 +21,35 @@
                 {
                     "type" : "card",
                     "content" : {
-                        "image" : "../html.png",
+                        "image" : "../images/html.png",
                         "title" : "HTML"
                     }
                 },
                 {
                     "type" : "card",
                     "content" : {
-                        "image" : "../css.png",
+                        "image" : "../images/css.png",
                         "title" : "CSS"
                     }
                 },
                 {
                     "type" : "card",
                     "content" : {
-                        "image" : "../js.png",
+                        "image" : "../images/js.png",
                         "title" : "javascript"
                     }
                 },
                 {
                     "type" : "card",
                     "content" : {
-                        "image" : "../php.jpg",
+                        "image" : "../images/php.jpg",
                         "title" : "PHP"
                     }
                 },
                 {
                     "type" : "card",
                     "content" : {
-                        "image" : "../laravel.png",
+                        "image" : "../images/laravel.png",
                         "title" : "Laravel"
                     }
                 }
