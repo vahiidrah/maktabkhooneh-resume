@@ -1,0 +1,59 @@
+{
+    "title" : "Hello I'm Ali Rahgosha",
+    "subtitle" : "Full Satck Developer | Blogger",
+    "links" : {
+        "github" : "https://github.com/vahiidrah/resume.git",
+        "linkedin" : "https://www.linkedin.com/in/vahiid-rah-0320a7189/"
+    },
+    "section" : [
+        {
+            "title" : "About",
+            "items" : [
+                {
+                    "type" : "p",
+                    "content" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin ut pharetra erat. Pellentesque gravida, sapien ut bibendum pretium, ante ligula accumsan augue, sed pretium urna sapien a turpis. Cras ultricies et ipsum nec ullamcorper. Duis rutrum blandit felis eget feugiat. Phasellus ut pulvinar diam, at rutrum purus. Phasellus posuere neque et orci blandit volutpat. Integer laoreet arcu dolor, vel tempor enim aliquam eu. Proin quis dolor nibh. Donec mauris arcu, laoreet a convallis eget, aliquet vel justo. Suspendisse gravida, ante vel vulputate gravida, arcu eros mollis nisi, ut faucibus ligula nisi quis mauris. Morbi eget nulla et metus ultricies aliquam non imperdiet enim. Etiam auctor mollis lorem, id aliquet lorem. Fusce sit amet sapien ac sapien auctor pretium vitae ac ante. Integer rhoncus risus sit amet nibh suscipit ornare. Morbi vitae dui sit amet nisi pharetra eleifend nec vulputate eros. Cras accumsan, lacus eu dapibus rhoncus, justo nunc lacinia nisl, in vehicula sem neque convallis augue. Cras tristique, justo vel posuere tincidunt, magna enim facilisis nulla, id viverra tellus velit id lectus. Vivamus hendrerit et elit at gravida. Donec mollis fringilla felis, vel pulvinar nisl semper commodo. Donec felis odio, cursus at porttitor ac, volutpat ut velit. Cras quis suscipit diam. Cras interdum luctus fringilla. Nullam nunc erat, hendrerit in ultrices quis, rutrum a est. Nullam vitae felis a massa consectetur consequat sit amet nec lorem. Proin malesuada, ex non consequat pharetra, metus tellus pellentesque lacus, eget condimentum nisi tellus nec turpis. Duis id turpis nec purus interdum finibus. Donec id tempus arcu. Ut tellus lacus, hendrerit vestibulum dui sed, auctor pellentesque est. Nunc sodales pretium placerat. Integer tristique lacus nec lectus maximus interdum. Cras eu ex interdum, accumsan mi aliquet, vestibulum enim. Morbi porta massa sit amet fermentum dignissim. Aenean non feugiat justo, a pulvinar diam. Maecenas sit amet volutpat turpis, sed ultricies dui. In id diam odio. In eu condimentum quam, in consectetur augue. Phasellus rhoncus odio ligula, a varius diam maximus ac. Pellentesque sed enim eu velit blandit aliquet a id justo. Phasellus ultricies sed nisi tempor consequat. Etiam semper, turpis sit amet bibendum vestibulum, elit lectus gravida ex, nec dignissim erat magna ac turpis. Vestibulum rhoncus viverra purus ac tincidunt. Nulla sed felis dignissim, tempus ipsum eget, dictum libero."
+                }
+            ]
+        },
+        {
+            "title" : "Skills",
+            "items" : [
+                {
+                    "type" : "card",
+                    "content" : {
+                        "image" : "../html.png",
+                        "title" : "HTML"
+                    }
+                },
+                {
+                    "type" : "card",
+                    "content" : {
+                        "image" : "../css.png",
+                        "title" : "CSS"
+                    }
+                },
+                {
+                    "type" : "card",
+                    "content" : {
+                        "image" : "../js.png",
+                        "title" : "javascript"
+                    }
+                },
+                {
+                    "type" : "card",
+                    "content" : {
+                        "image" : "../php.jpg",
+                        "title" : "PHP"
+                    }
+                },
+                {
+                    "type" : "card",
+                    "content" : {
+                        "image" : "../laravel.png",
+                        "title" : "Laravel"
+                    }
+                }
+            ]
+        }
+    ]
+}

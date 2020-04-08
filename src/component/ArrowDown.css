@@ -1,0 +1,17 @@
+@keyframes arrowDown {
+  from {
+    transform: translateY(270);
+  }
+  to {
+    transform: translateY(250px);
+  }
+}
+
+@keyframes arrowDownAbout {
+  from {
+    transform: translateY(100px);
+  }
+  to {
+    transform: translateY(120px);
+  }
+}

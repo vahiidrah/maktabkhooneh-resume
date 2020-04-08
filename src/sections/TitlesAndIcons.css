@@ -1,0 +1,14 @@
+.title{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  }
+  
+  .icon{
+    display: inline-block;
+    margin: 5px;
+  }
+  
+  .top{
+    padding-top: 300px !important;
+    padding-bottom: 200px;
+    background-color: rgb(99, 99, 122);
+  }

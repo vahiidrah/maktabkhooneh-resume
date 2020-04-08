@@ -1,0 +1,8 @@
+@keyframes arrowUp {
+    from {
+      transform: translateY(40px);
+    }
+    to {
+      transform: translateY(20px);
+    }
+  }
